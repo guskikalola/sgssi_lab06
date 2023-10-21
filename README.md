@@ -2,7 +2,7 @@
 
 Para poder ejecutar el siguiente script se precisa de python3, el cual se puede obtener [aqui](https://www.python.org/downloads/).
 
-Para descargar el codigo basta con darle a Codigo > Descargar en el repositorio de GitHub.
+Para descargar el codigo basta con darle a `Codigo > Descargar ZIP` en el repositorio de GitHub.
 
 Modo de ejecución:
 
