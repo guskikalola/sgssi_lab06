@@ -1,8 +1,8 @@
 # Lab06
 
-Para poder ejecutar el siguiente script se precisa de python3, el cual se puede obtener [aqui](https://www.python.org/downloads/).
+Para poder ejecutar el siguiente script se precisa de python3, el cual se puede obtener [aquí](https://www.python.org/downloads/).
 
-Para descargar el codigo basta con darle a `Codigo > Descargar ZIP` en el repositorio de GitHub.
+Para descargar el código basta con darle a `Código > Descargar ZIP` en el repositorio de GitHub.
 
 Modo de ejecución:
 
