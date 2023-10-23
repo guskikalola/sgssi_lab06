@@ -1,3 +1,4 @@
 *.pdf
 **/__pycache__
 SGSSI-23.CB.03.de.txt
+checksum.txt
